@@ -8,6 +8,7 @@ export const HeaderContainer = styled.header`
   img {
     width: 3rem;
     height: 3rem;
+    margin-left: 3rem;
   }
 
   nav {
